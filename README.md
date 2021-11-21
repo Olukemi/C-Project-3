@@ -1,6 +1,3 @@
-# lab3-OlukemiOdujinrin
-lab3-OlukemiOdujinrin created by GitHub Classroom
+# C Project 3 | COMPENG Lab 3
 
-Section: [L01]
-Student ID: [odujinro]
-Student Number: [400317700]
+Completed Computer Engineering Lab 3 Applications using C programming language
